@@ -1,6 +1,6 @@
 ﻿/// <summary>
 /// Make train data for YOLOv4
-/// Pick graph (manual) and save bound the graphs
+/// Pick graph (manual) and save bound of the graphs
 /// @Author Chanwoo Gwon, Yonsei University Researcher, since 2020.05
 /// @Date 2020.08.
 /// </summary>
